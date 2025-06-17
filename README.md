@@ -98,6 +98,8 @@ This project is ideal for learning **relational database design**, **data extrac
 
 > 💡 This project serves as a foundation for more complex banking systems and is great for practicing real-world SQL operations.
 
-
+## 📁 Files Included
+- `Transactions project.sql` – sql file with queries and raw data
+  
 
 
