@@ -101,6 +101,7 @@ This project is ideal for learning **relational database design**, **data extrac
 ## 📁 Files Included
 - `Transactions project.sql` – sql file with queries and raw data
   
+---
 > **Developed by**: [shilpa k c]  
 > **LinkedIn**: [https://www.linkedin.com/in/shilpa-kc]  
 > **Project Type**:  Academic
