@@ -75,6 +75,7 @@ This Banking Database SQL project successfully simulates the backend structure o
 
 This project is ideal for learning **relational database design**, **data extraction techniques**, and **banking system fundamentals**.
 
+---
 ## 📂 How to Use
 
 1. **Set Up Your Environment**  
@@ -98,6 +99,7 @@ This project is ideal for learning **relational database design**, **data extrac
 
 > 💡 This project serves as a foundation for more complex banking systems and is great for practicing real-world SQL operations.
 
+---
 ## 📁 Files Included
 - `Transactions project.sql` – sql file with queries and raw data
   
